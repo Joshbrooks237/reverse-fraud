@@ -5,6 +5,30 @@
 
 This project is a dark-mode fraud operations console built to identify, verify, and decide.
 
+## Origin Story (T2)
+
+The logs burn in the dark.  
+One transaction at a time.  
+Most look clean. Some are ghosts.
+
+By the time old systems saw the threat, money was already gone and trust was already broken.
+
+So we changed the timeline.
+
+`reverse-fraud` is built on one rule: **no blind approvals**.  
+Every payment enters the machine and faces layered judgment:
+
+- device and behavior analysis
+- network and anonymization checks
+- payment-risk signals
+- identity, bank, and OTP verification before release
+
+This is not passive monitoring.  
+This is interception.
+
+If the signal is real, it gets through.  
+If the signal lies, it gets terminated.
+
 ## Mission
 
 In a world where bad actors automate faster than trust can react, this dashboard gives defenders leverage:
